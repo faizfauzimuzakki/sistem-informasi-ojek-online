@@ -1,8 +1,15 @@
-### Analisis permasalahan ojek online
-#### 1.keselamatan pengguna
+### Analisis kebutuhan driver dan customer ojek online
+#### 1. Kebutuhan Pelanggan:
+Aplikasi yang User-Friendly: Pengguna ingin aplikasi yang mudah digunakan dan intuitif.
+Harga yang Bersaing: Harga yang terjangkau dan transparan adalah faktor penting.
+Kemudahan Pembayaran: Pengguna ingin berbagai pilihan pembayaran, termasuk kartu kredit, dompet digital, dan pembayaran tunai.
+Waktu Tunggu yang Singkat: Kebutuhan akan waktu tunggu yang minim sebelum pengemudi tiba.
 
-
-
+#### 2. Kebutuhan driver
+Penghasilan yang Stabil: Driver mengharapkan penghasilan yang adil dan stabil.
+Fleksibilitas Jadwal: Pengemudi ingin bekerja dengan jadwal yang fleksibel sesuai dengan kebutuhan mereka.
+Bantuan Navigasi: Aplikasi harus menyediakan navigasi yang baik agar pengemudi dapat menjangkau pelanggan dengan mudah.
+Layanan Dukungan: Dukungan pelanggan yang baik dalam hal keluhan atau masalah teknis.
 
 
 
